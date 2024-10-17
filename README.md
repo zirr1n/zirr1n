@@ -1,4 +1,4 @@
-- bakla na gustong yumaman
+
 
 <!---
 zirr1n/zirr1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
